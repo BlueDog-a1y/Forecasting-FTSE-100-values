@@ -1,2 +1,2 @@
 # Forecasting-FTSE-100-values
-Time series analysis and forecasting project on historical closing FTSE 100 values
+Time series analysis and forecasting project on historical closing FTSE 100 values.  Includes data preprocessing, exploratory analysis, stationarity testing, ARIMA model selection, Box-Cox variance stabilisation and validation. Performance of ARIMA model is compared with baseline Persistence model. I will update the project with more statistical models such as GARCH, regime-switching and Cointegration models.
